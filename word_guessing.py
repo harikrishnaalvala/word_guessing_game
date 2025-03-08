@@ -23,7 +23,7 @@ def play_game():
                 print("_", end=" ")
                 failed += 1
 
-        print()  # New line for better formatting
+        print()  
 
         if failed == 0:
             print(f"{name}, You Win! 🎉")
