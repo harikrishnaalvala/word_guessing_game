@@ -48,5 +48,5 @@ def play_game():
     else:
         print("Thanks for playing!")
 
-# Start the game
+
 play_game()
